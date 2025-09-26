@@ -1,3 +1,0 @@
-account_id,Customer_id,account_type,balance,txn_id,txn_date,txn_type,txn_amount,txn_channel
-100010,1,CURRENT,50,3,2023-07-28,DEBIT,-11.22,BRANCH
-100010,1,CURRENT,60,1,2023-09-02,DEBIT,-285.74,ATM
