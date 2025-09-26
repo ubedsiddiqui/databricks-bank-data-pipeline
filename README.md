@@ -1,5 +1,5 @@
 # databricks-bank-data-pipeline
-Real-time data engineering project on Databricks: banking dataset processed with Medallion Architecture (Landing → Bronze → Silver → Gold), incremental loads (2023–2024), CDC, SCD Type 1 &amp; 2, and real-time dashboards.
+This project demonstrates how raw banking data is transformed into actionable insights. First, I cleaned and prepared incoming data to remove errors. Then, I organized it into structured tables for customers and transactions. Finally, I created a dashboard that updates in real-time, showing trends like balances and transactions, making the data easy to understand and analyze.
 
 
 
