@@ -1,0 +1,21 @@
+customer_id,name,dob,gender,city,join_date,status,email,phone_number,preferred_channel,occupation,income_range,risk_segment
+201,Freya Lewis,2005-09-25,F,Liverpool,2026-03-20,ACTIVE,noemail@.com,+44 7982189650,Online,Designer,Low,Medium
+202,noah williams,1964-12-08,M,Sheffield,2026-04-10,Active,noah.williams202@example.com,+44 7599943775,Online,Engineer,Very High,Low
+204,Isabella Davies,1990-09-23,M,Liverpool,2024-09-27,Inactive,isabella.davies204@example.com,+44 7418705515,Online,Analyst,Medium,Low
+205,Arthur Jones,2001-06-11,F, Cardiff,2024-09-28,Pending,arthur.jones205@example.com,+44 7080319327,ATM,Designer,High,Medium
+206,Theo Clark,1962-05-19,M,Edinburgh,2024-06-14,Active,theo.clark206@example.com,+44 7699430348,MOBILE,Nurse,Low,Low
+207,ARTHUR HARRIS ,2000-04-14,M,Leeds,2024-07-04,Active,arthur.harris207@example.com,+44 7166219862,Branch,Nurse,Very High,Medium
+208,JACOB WHITE,2004-03-16,M,Glasgow,2024-12-09,Active,jacob.white208@example.com,+44 7993865738,ATM,Student,High,Medium
+210,AMELIA TAYLOR ,1968-04-16,M,Cardiff,2025-10-22,Active,amelia.taylor210@example.com,+44 7251553962,ATM,Nurse,Medium,Low
+212,Ava Wilson,2002-01-08,F,Cardiff,2024-07-29,Active,ava.wilson212@example.com,+44 7417286514,MOBILE,Developer,High,High
+214,Ruby Green,1974-02-18,M,Cardiff,2026-01-19,Active,ruby.green214@example.com,+44 7014930935,MOBILE,Developer,High,High
+215,Noah Green,1993-12-19,F,Glasgow,2024-03-15,Active,@example.com,+44 7643383733,Onlne,Teacher,Low,Low
+216,Amelia Baker,1999-03-04,M,Edinburgh,2024-12-08,inactive,amelia.baker216@example.com,+44 7586555983,Branch,Manager,Low,High
+217,Mia Taylor,1974-06-29,M,Edinburgh,2024-11-27,Inactive,mia.taylor217@example.com,+44 7828113317,Branch,Student,High,Medium
+218,Ella Robinson,1962-11-26,F,Bristol,2024-12-26,Active,ella.robinson218@example.com,+44 7748148944,Online,Consultant,Low,Medium
+220,Lily Jones,1983-04-22,M,Sheffield,2024-11-16,Active,lily.jones220@example.com,+44 7769848544,Branch,Sales,Medium,Low
+221,Freya Smith,1961-05-12,M,Manchester,2024-12-24,Pending,freya.smith221@example.com,+44 7056509904,ATM,Sales,Medium,High
+222,Oliver Cooper,1991-12-06,F,Glasgow,2024-04-21,Inactive,oliver.cooper222@example.com,+44 7486124179,Branch,Teacher,Low,Low
+224,Oscar Davies,1969-12-10,M,Liverpool,2024-09-05,Inactive,oscar.davies224@example.com,+44 7232692939,ATM,Student,Medium,High
+226,Evie Johnson,1972-06-07,M, LIVERPOOL,2024-07-05,Active,evie.johnson226@example.com,+44 7767437235,Branch,Manager,Low,Medium
+227,Emily Walker,1999-06-24,F,Manchester,2024-03-19,Active,user@@example.com,+44 7029145351,MOBILE,Teacher,Medium,Low
